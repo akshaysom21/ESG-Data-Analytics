@@ -352,18 +352,13 @@ Contributions welcome! Areas for improvement:
 - Automated ETL pipelines
 - API integrations
 
-## 📄 License
-
-[Specify your license]
 
 ## 👤 Author
 
-[Your Name]  
-[Your LinkedIn/Portfolio]  
-[Contact Information]
+[Akshay Som]  
+[https://www.linkedin.com/in/akshaysom21/]  
+[+91-9805109021]
 
 ---
 
-**Last Updated**: December 2024  
-**Status**: ✅ Analysis Complete | 🚧 Implementation In Progress
 
